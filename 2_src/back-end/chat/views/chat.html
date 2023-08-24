@@ -1,0 +1,218 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+
+<div class="header">
+  <div>
+    <h1 id="eduAcademyName">{{title}} 채팅방</h1>
+    <div>{{room.introduction}}</div>
+  </div>
+
+  <button id="exit-btn"><i class="fa-solid fa-right-from-bracket"></i></button>
+</div>
+<hr>
+<div id="bigDiv">
+
+  <fieldset>
+    <div id="chat-list">
+      {% for chat in chats %}
+      {% if chat.user === user %}
+      <div class="mine" style="color: {{chat.user}}">
+        <div>{{chat.user}}</div>
+        {% if chat.gif %}
+        <img src="/gif/{{chat.gif}}">
+        {% else %}
+        <div id="chatContent">{{chat.chat}}</div>
+        {% endif %}
+      </div>
+      {% elif chat.user === 'system' %}
+      <div class="system">
+        <div>{{chat.chat}}</div>
+      </div>
+      {% else %}
+      <div class="other" style="color: {{chat.user}}">
+        <div>{{chat.user}}</div>
+        {% if chat.gif %}
+        <img src="/gif/{{chat.gif}}">
+        {% else %}
+        <div>{{chat.chat}}</div>
+        {% endif %}
+      </div>
+      {% endif %}
+      {% endfor %}
+
+    </div>
+  </fieldset>
+
+  <form action="/chat" id="chat-form" method="post" enctype="multipart/form-data" class="chatlargeInput">
+    <div class="card-footer text-muted d-flex justify-content-start align-items-center p-3" class="chatDiv">
+
+      <input type="text" class="form-control form-control-lg" id="chat" name="chat" placeholder="메세지를 입력하세요">
+
+      <a class="ms-1 text-muted" href="#!" id="paperclip-button">
+        <i class="fas fa-paperclip"></i>
+      </a>
+      <input type="file" class="hidden-input" id="gif" name="gif" accept="image/gif">
+
+
+      <a class="ms-3 text-muted" href="#!" id="smile-button">
+        <i class="fas fa-smile"></i>
+      </a>
+      <button class="ms-3" type="send"><i class="fas fa-paper-plane"></i></button>
+    </div>
+  </form>
+  <div id="emoticon-panel"></div>
+</div>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script src="/socket.io/socket.io.js"></script>
+<script>
+  const socket = io.connect('http://localhost:8092/chat', {
+    path: '/socket.io',
+  });
+
+
+  //누군가 방에 들어온 경우
+  socket.emit('join', new URL(location).pathname.split('/').at(-1));
+  socket.on('join', function (data) {
+    const div = document.createElement('div');
+    div.classList.add('system');
+    const chat = document.createElement('div');
+    chat.textContent = data.chat;
+    div.appendChild(chat);
+    document.querySelector('#chat-list').appendChild(div);
+  });
+
+  //누군가 방에서 나간 경우
+  socket.on('exit', function (data) {
+    const div = document.createElement('div');
+    div.classList.add('system');
+    const chat = document.createElement('div');
+    chat.textContent = data.chat;
+    div.appendChild(chat);
+    document.querySelector('#chat-list').appendChild(div);
+  });
+
+  //채팅내용 등록
+  socket.on('chat', function (data) {
+    const div = document.createElement('div');
+    if (data.user === '{{user}}') {
+      div.classList.add('mine');
+    } else {
+      div.classList.add('other');
+    }
+    const name = document.createElement('div');
+    name.textContent = data.user;
+    div.appendChild(name);
+    if (data.chat) {
+      const chat = document.createElement('div');
+      chat.textContent = data.chat;
+      div.appendChild(chat);
+    } else {
+      const gif = document.createElement('img');
+      gif.src = '/gif/' + data.gif;
+      div.appendChild(gif);
+    }
+    div.style.color = data.user;
+    document.querySelector('#chat-list').appendChild(div);
+
+    // 채팅이 등록될 때 해당 채팅으로 포커스 이동
+    div.scrollIntoView({ behavior: 'smooth', block: 'end' });
+  });
+
+  //db에 등록
+  document.querySelector('#chat-form').addEventListener('submit', function (e) {
+    e.preventDefault();
+    if (e.target.chat.value) {
+      axios.post('/room/{{room._id}}/chat', {
+        chat: this.chat.value,
+      })
+        .then(() => {
+          e.target.chat.value = '';
+        })
+        .catch((err) => {
+          console.error(err);
+        });
+    }
+  });
+
+  //사진 등록
+  document.querySelector('#gif').addEventListener('change', function (e) {
+    console.log(e.target.files);
+    const formData = new FormData();
+    formData.append('gif', e.target.files[0]);
+    axios.post('/room/{{room._id}}/gif', formData)
+      .then(() => {
+        e.target.file = null;
+      })
+      .catch((err) => {
+        console.error(err);
+      });
+  });
+
+  // 아이콘을 클릭하면 input 창 클릭 이벤트를 발생시킴
+  const imageIcon = document.getElementById('paperclip-button');
+  const gifInput = document.getElementById('gif');
+
+  imageIcon.addEventListener('click', () => {
+    gifInput.click();
+  });
+  const exitbtn = document.getElementById("exit-btn");
+  exitbtn.addEventListener("click", () => {
+    window.location.href = "http://localhost:8092/";
+  })
+
+
+
+
+</script>
+
+
+
+<script>
+  const smileButton = document.getElementById('smile-button');
+  const chatInput = document.getElementById('chat');
+  const emoticonPanel = document.getElementById('emoticon-panel');
+
+  let emojis = []; // 초기화된 빈 배열
+
+  smileButton.addEventListener('click', (event) => {
+    event.preventDefault();
+    fetchEmojis();
+    emoticonPanel.style.display = 'block';
+  });
+
+  async function fetchEmojis() {
+    try {
+
+      const response = await fetch('/emoji.json'); // 수정된 경로
+      emojis = await response.json(); // JSON 변환 후 할당
+      console.log(emojis);
+
+      displayEmojis(emojis);
+    } catch (error) {
+      console.error('Error fetching emojis:', error);
+    }
+  }
+
+
+  function displayEmojis(emojis) {
+    emoticonPanel.innerHTML = '';
+    emojis.forEach((emoji) => {
+      const emojiButton = document.createElement('button');
+      emojiButton.textContent = emoji.character;
+      emojiButton.classList.add('emoticon');
+      emoticonPanel.appendChild(emojiButton);
+    });
+  }
+
+  emoticonPanel.addEventListener('click', (event) => {
+    if (event.target.classList.contains('emoticon')) {
+      const emoticon = event.target.textContent;
+      chatInput.value += emoticon;
+      emoticonPanel.style.display = 'none';
+      chatInput.focus();
+    }
+  });
+</script>
+
+{% endblock %}

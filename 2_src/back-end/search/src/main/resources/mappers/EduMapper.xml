@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.goodbe.search.mapper.EduMapper">
+
+	<select id="selectEdu" resultType="Edu"> 
+		select trpr_id as trprId, title as title, title_link as
+			   titleLink, sub_tltle as subTltle, sub_title_link as sub_tltle, tel_no as telNo, 
+			   address as address, content as content 
+		from edu; 
+	</select>
+
+	<select id="selectEduDataByKeyword" parameterType="java.util.List" resultType="Edu">
+        select trpr_id as trprId, title as title, title_link as
+			   titleLink, sub_tltle as subTltle, sub_title_link as sub_tltle, tel_no as telNo, 
+			   address as address, content as content 
+        from edu
+        <where>
+            <foreach item="item" index="index" collection="list">
+                <if test="index == 0">
+                    title like #{item}
+                    or sub_tltle like #{item}
+                    or content like #{item}
+                </if>
+                <if test="index != 0">
+                    or title like #{item}
+                    or sub_tltle like #{item}
+                    or content like #{item}
+                </if>
+            </foreach>
+            ;
+        </where>
+    </select>
+</mapper>

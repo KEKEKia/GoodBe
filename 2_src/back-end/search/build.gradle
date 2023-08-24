@@ -1,0 +1,49 @@
+plugins {
+	id 'java'
+	id 'org.springframework.boot' version '2.7.14'
+	id 'io.spring.dependency-management' version '1.0.15.RELEASE'
+}
+
+group = 'com.goodbe'
+version = '0.0.1-SNAPSHOT'
+
+java {
+	sourceCompatibility = '17'
+}
+
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+	// swagger
+	implementation group: 'io.springfox', name: 'springfox-swagger-ui', version: '2.9.2'
+	implementation group: 'io.springfox', name: 'springfox-swagger2', version: '2.9.2'
+
+	// spring boot
+	implementation 'org.springframework.boot:spring-boot-starter-web'
+	compileOnly 'org.projectlombok:lombok'
+	annotationProcessor 'org.projectlombok:lombok'
+	testImplementation 'org.springframework.boot:spring-boot-starter-test'
+
+	// Elasticsearch API Client
+	implementation 'co.elastic.clients:elasticsearch-java:8.1.2'
+	implementation 'com.fasterxml.jackson.core:jackson-databind:2.12.3'
+	implementation 'jakarta.json:jakarta.json-api:2.0.1'
+
+	implementation group: 'org.json', name: 'json', version: '20090211'
+	implementation group: 'org.springframework.boot', name: 'spring-boot-starter-data-elasticsearch', version: '1.2.5.RELEASE'
+
+	// mybatis
+	implementation 'org.mybatis.spring.boot:mybatis-spring-boot-starter:2.2.0'
+
+	// mysql setting
+	// runtimeOnly 'mysql:mysql-connector-java:8.0.25'
+
+	// mariadb setting
+	implementation group: 'org.mariadb.jdbc', name: 'mariadb-java-client', version:"2.7.0"
+}
+
+tasks.named('test') {
+	useJUnitPlatform()
+}

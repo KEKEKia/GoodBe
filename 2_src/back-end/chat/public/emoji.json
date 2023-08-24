@@ -1,0 +1,2115 @@
+[{
+    "slug": "grinning-face",
+    "character": "\ud83d\ude00",
+    "unicodeName": "grinning face",
+    "codePoint": "1F600",
+    "group": "smileys-emotion",
+    "subGroup": "face-smiling"
+}, {
+    "slug": "grinning-face-with-big-eyes",
+    "character": "\ud83d\ude03",
+    "unicodeName": "grinning face with big eyes",
+    "codePoint": "1F603",
+    "group": "smileys-emotion",
+    "subGroup": "face-smiling"
+}, {
+    "slug": "grinning-face-with-smiling-eyes",
+    "character": "\ud83d\ude04",
+    "unicodeName": "grinning face with smiling eyes",
+    "codePoint": "1F604",
+    "group": "smileys-emotion",
+    "subGroup": "face-smiling"
+}, {
+    "slug": "beaming-face-with-smiling-eyes",
+    "character": "\ud83d\ude01",
+    "unicodeName": "beaming face with smiling eyes",
+    "codePoint": "1F601",
+    "group": "smileys-emotion",
+    "subGroup": "face-smiling"
+}, {
+    "slug": "grinning-squinting-face",
+    "character": "\ud83d\ude06",
+    "unicodeName": "grinning squinting face",
+    "codePoint": "1F606",
+    "group": "smileys-emotion",
+    "subGroup": "face-smiling"
+}, {
+    "slug": "grinning-face-with-sweat",
+    "character": "\ud83d\ude05",
+    "unicodeName": "grinning face with sweat",
+    "codePoint": "1F605",
+    "group": "smileys-emotion",
+    "subGroup": "face-smiling"
+}, {
+    "slug": "rolling-on-the-floor-laughing",
+    "character": "\ud83e\udd23",
+    "unicodeName": "rolling on the floor laughing",
+    "codePoint": "1F923",
+    "group": "smileys-emotion",
+    "subGroup": "face-smiling"
+}, {
+    "slug": "face-with-tears-of-joy",
+    "character": "\ud83d\ude02",
+    "unicodeName": "face with tears of joy",
+    "codePoint": "1F602",
+    "group": "smileys-emotion",
+    "subGroup": "face-smiling"
+}, {
+    "slug": "slightly-smiling-face",
+    "character": "\ud83d\ude42",
+    "unicodeName": "slightly smiling face",
+    "codePoint": "1F642",
+    "group": "smileys-emotion",
+    "subGroup": "face-smiling"
+}, {
+    "slug": "upside-down-face",
+    "character": "\ud83d\ude43",
+    "unicodeName": "upside-down face",
+    "codePoint": "1F643",
+    "group": "smileys-emotion",
+    "subGroup": "face-smiling"
+}, {
+    "slug": "winking-face",
+    "character": "\ud83d\ude09",
+    "unicodeName": "winking face",
+    "codePoint": "1F609",
+    "group": "smileys-emotion",
+    "subGroup": "face-smiling"
+}, {
+    "slug": "smiling-face-with-smiling-eyes",
+    "character": "\ud83d\ude0a",
+    "unicodeName": "smiling face with smiling eyes",
+    "codePoint": "1F60A",
+    "group": "smileys-emotion",
+    "subGroup": "face-smiling"
+}, {
+    "slug": "smiling-face-with-halo",
+    "character": "\ud83d\ude07",
+    "unicodeName": "smiling face with halo",
+    "codePoint": "1F607",
+    "group": "smileys-emotion",
+    "subGroup": "face-smiling"
+}, {
+    "slug": "smiling-face-with-hearts",
+    "character": "\ud83e\udd70",
+    "unicodeName": "smiling face with hearts",
+    "codePoint": "1F970",
+    "group": "smileys-emotion",
+    "subGroup": "face-affection"
+}, {
+    "slug": "smiling-face-with-heart-eyes",
+    "character": "\ud83d\ude0d",
+    "unicodeName": "smiling face with heart-eyes",
+    "codePoint": "1F60D",
+    "group": "smileys-emotion",
+    "subGroup": "face-affection"
+}, {
+    "slug": "star-struck",
+    "character": "\ud83e\udd29",
+    "unicodeName": "star-struck",
+    "codePoint": "1F929",
+    "group": "smileys-emotion",
+    "subGroup": "face-affection"
+}, {
+    "slug": "face-blowing-a-kiss",
+    "character": "\ud83d\ude18",
+    "unicodeName": "face blowing a kiss",
+    "codePoint": "1F618",
+    "group": "smileys-emotion",
+    "subGroup": "face-affection"
+}, {
+    "slug": "kissing-face",
+    "character": "\ud83d\ude17",
+    "unicodeName": "kissing face",
+    "codePoint": "1F617",
+    "group": "smileys-emotion",
+    "subGroup": "face-affection"
+}, {
+    "slug": "smiling-face",
+    "character": "\u263a\ufe0f",
+    "unicodeName": "smiling face",
+    "codePoint": "263A FE0F",
+    "group": "smileys-emotion",
+    "subGroup": "face-affection"
+}, {
+    "slug": "kissing-face-with-closed-eyes",
+    "character": "\ud83d\ude1a",
+    "unicodeName": "kissing face with closed eyes",
+    "codePoint": "1F61A",
+    "group": "smileys-emotion",
+    "subGroup": "face-affection"
+}, {
+    "slug": "kissing-face-with-smiling-eyes",
+    "character": "\ud83d\ude19",
+    "unicodeName": "kissing face with smiling eyes",
+    "codePoint": "1F619",
+    "group": "smileys-emotion",
+    "subGroup": "face-affection"
+}, {
+    "slug": "smiling-face-with-tear",
+    "character": "\ud83e\udd72",
+    "unicodeName": "smiling face with tear",
+    "codePoint": "1F972",
+    "group": "smileys-emotion",
+    "subGroup": "face-affection"
+}, {
+    "slug": "face-savoring-food",
+    "character": "\ud83d\ude0b",
+    "unicodeName": "face savoring food",
+    "codePoint": "1F60B",
+    "group": "smileys-emotion",
+    "subGroup": "face-tongue"
+}, {
+    "slug": "face-with-tongue",
+    "character": "\ud83d\ude1b",
+    "unicodeName": "face with tongue",
+    "codePoint": "1F61B",
+    "group": "smileys-emotion",
+    "subGroup": "face-tongue"
+}, {
+    "slug": "winking-face-with-tongue",
+    "character": "\ud83d\ude1c",
+    "unicodeName": "winking face with tongue",
+    "codePoint": "1F61C",
+    "group": "smileys-emotion",
+    "subGroup": "face-tongue"
+}, {
+    "slug": "zany-face",
+    "character": "\ud83e\udd2a",
+    "unicodeName": "zany face",
+    "codePoint": "1F92A",
+    "group": "smileys-emotion",
+    "subGroup": "face-tongue"
+}, {
+    "slug": "squinting-face-with-tongue",
+    "character": "\ud83d\ude1d",
+    "unicodeName": "squinting face with tongue",
+    "codePoint": "1F61D",
+    "group": "smileys-emotion",
+    "subGroup": "face-tongue"
+}, {
+    "slug": "money-mouth-face",
+    "character": "\ud83e\udd11",
+    "unicodeName": "money-mouth face",
+    "codePoint": "1F911",
+    "group": "smileys-emotion",
+    "subGroup": "face-tongue"
+}, {
+    "slug": "hugging-face",
+    "character": "\ud83e\udd17",
+    "unicodeName": "hugging face",
+    "codePoint": "1F917",
+    "group": "smileys-emotion",
+    "subGroup": "face-hand"
+}, {
+    "slug": "face-with-hand-over-mouth",
+    "character": "\ud83e\udd2d",
+    "unicodeName": "face with hand over mouth",
+    "codePoint": "1F92D",
+    "group": "smileys-emotion",
+    "subGroup": "face-hand"
+}, {
+    "slug": "shushing-face",
+    "character": "\ud83e\udd2b",
+    "unicodeName": "shushing face",
+    "codePoint": "1F92B",
+    "group": "smileys-emotion",
+    "subGroup": "face-hand"
+}, {
+    "slug": "thinking-face",
+    "character": "\ud83e\udd14",
+    "unicodeName": "thinking face",
+    "codePoint": "1F914",
+    "group": "smileys-emotion",
+    "subGroup": "face-hand"
+}, {
+    "slug": "zipper-mouth-face",
+    "character": "\ud83e\udd10",
+    "unicodeName": "zipper-mouth face",
+    "codePoint": "1F910",
+    "group": "smileys-emotion",
+    "subGroup": "face-neutral-skeptical"
+}, {
+    "slug": "face-with-raised-eyebrow",
+    "character": "\ud83e\udd28",
+    "unicodeName": "face with raised eyebrow",
+    "codePoint": "1F928",
+    "group": "smileys-emotion",
+    "subGroup": "face-neutral-skeptical"
+}, {
+    "slug": "neutral-face",
+    "character": "\ud83d\ude10",
+    "unicodeName": "neutral face",
+    "codePoint": "1F610",
+    "group": "smileys-emotion",
+    "subGroup": "face-neutral-skeptical"
+}, {
+    "slug": "expressionless-face",
+    "character": "\ud83d\ude11",
+    "unicodeName": "expressionless face",
+    "codePoint": "1F611",
+    "group": "smileys-emotion",
+    "subGroup": "face-neutral-skeptical"
+}, {
+    "slug": "face-without-mouth",
+    "character": "\ud83d\ude36",
+    "unicodeName": "face without mouth",
+    "codePoint": "1F636",
+    "group": "smileys-emotion",
+    "subGroup": "face-neutral-skeptical"
+}, {
+    "slug": "smirking-face",
+    "character": "\ud83d\ude0f",
+    "unicodeName": "smirking face",
+    "codePoint": "1F60F",
+    "group": "smileys-emotion",
+    "subGroup": "face-neutral-skeptical"
+}, {
+    "slug": "unamused-face",
+    "character": "\ud83d\ude12",
+    "unicodeName": "unamused face",
+    "codePoint": "1F612",
+    "group": "smileys-emotion",
+    "subGroup": "face-neutral-skeptical"
+}, {
+    "slug": "face-with-rolling-eyes",
+    "character": "\ud83d\ude44",
+    "unicodeName": "face with rolling eyes",
+    "codePoint": "1F644",
+    "group": "smileys-emotion",
+    "subGroup": "face-neutral-skeptical"
+}, {
+    "slug": "grimacing-face",
+    "character": "\ud83d\ude2c",
+    "unicodeName": "grimacing face",
+    "codePoint": "1F62C",
+    "group": "smileys-emotion",
+    "subGroup": "face-neutral-skeptical"
+}, {
+    "slug": "lying-face",
+    "character": "\ud83e\udd25",
+    "unicodeName": "lying face",
+    "codePoint": "1F925",
+    "group": "smileys-emotion",
+    "subGroup": "face-neutral-skeptical"
+}, {
+    "slug": "relieved-face",
+    "character": "\ud83d\ude0c",
+    "unicodeName": "relieved face",
+    "codePoint": "1F60C",
+    "group": "smileys-emotion",
+    "subGroup": "face-sleepy"
+}, {
+    "slug": "pensive-face",
+    "character": "\ud83d\ude14",
+    "unicodeName": "pensive face",
+    "codePoint": "1F614",
+    "group": "smileys-emotion",
+    "subGroup": "face-sleepy"
+}, {
+    "slug": "sleepy-face",
+    "character": "\ud83d\ude2a",
+    "unicodeName": "sleepy face",
+    "codePoint": "1F62A",
+    "group": "smileys-emotion",
+    "subGroup": "face-sleepy"
+}, {
+    "slug": "drooling-face",
+    "character": "\ud83e\udd24",
+    "unicodeName": "drooling face",
+    "codePoint": "1F924",
+    "group": "smileys-emotion",
+    "subGroup": "face-sleepy"
+}, {
+    "slug": "sleeping-face",
+    "character": "\ud83d\ude34",
+    "unicodeName": "sleeping face",
+    "codePoint": "1F634",
+    "group": "smileys-emotion",
+    "subGroup": "face-sleepy"
+}, {
+    "slug": "face-with-medical-mask",
+    "character": "\ud83d\ude37",
+    "unicodeName": "face with medical mask",
+    "codePoint": "1F637",
+    "group": "smileys-emotion",
+    "subGroup": "face-unwell"
+}, {
+    "slug": "face-with-thermometer",
+    "character": "\ud83e\udd12",
+    "unicodeName": "face with thermometer",
+    "codePoint": "1F912",
+    "group": "smileys-emotion",
+    "subGroup": "face-unwell"
+}, {
+    "slug": "face-with-head-bandage",
+    "character": "\ud83e\udd15",
+    "unicodeName": "face with head-bandage",
+    "codePoint": "1F915",
+    "group": "smileys-emotion",
+    "subGroup": "face-unwell"
+}, {
+    "slug": "nauseated-face",
+    "character": "\ud83e\udd22",
+    "unicodeName": "nauseated face",
+    "codePoint": "1F922",
+    "group": "smileys-emotion",
+    "subGroup": "face-unwell"
+}, {
+    "slug": "face-vomiting",
+    "character": "\ud83e\udd2e",
+    "unicodeName": "face vomiting",
+    "codePoint": "1F92E",
+    "group": "smileys-emotion",
+    "subGroup": "face-unwell"
+}, {
+    "slug": "sneezing-face",
+    "character": "\ud83e\udd27",
+    "unicodeName": "sneezing face",
+    "codePoint": "1F927",
+    "group": "smileys-emotion",
+    "subGroup": "face-unwell"
+}, {
+    "slug": "hot-face",
+    "character": "\ud83e\udd75",
+    "unicodeName": "hot face",
+    "codePoint": "1F975",
+    "group": "smileys-emotion",
+    "subGroup": "face-unwell"
+}, {
+    "slug": "cold-face",
+    "character": "\ud83e\udd76",
+    "unicodeName": "cold face",
+    "codePoint": "1F976",
+    "group": "smileys-emotion",
+    "subGroup": "face-unwell"
+}, {
+    "slug": "woozy-face",
+    "character": "\ud83e\udd74",
+    "unicodeName": "woozy face",
+    "codePoint": "1F974",
+    "group": "smileys-emotion",
+    "subGroup": "face-unwell"
+}, {
+    "slug": "dizzy-face",
+    "character": "\ud83d\ude35",
+    "unicodeName": "dizzy face",
+    "codePoint": "1F635",
+    "group": "smileys-emotion",
+    "subGroup": "face-unwell"
+}, {
+    "slug": "exploding-head",
+    "character": "\ud83e\udd2f",
+    "unicodeName": "exploding head",
+    "codePoint": "1F92F",
+    "group": "smileys-emotion",
+    "subGroup": "face-unwell"
+}, {
+    "slug": "cowboy-hat-face",
+    "character": "\ud83e\udd20",
+    "unicodeName": "cowboy hat face",
+    "codePoint": "1F920",
+    "group": "smileys-emotion",
+    "subGroup": "face-hat"
+}, {
+    "slug": "partying-face",
+    "character": "\ud83e\udd73",
+    "unicodeName": "partying face",
+    "codePoint": "1F973",
+    "group": "smileys-emotion",
+    "subGroup": "face-hat"
+}, {
+    "slug": "disguised-face",
+    "character": "\ud83e\udd78",
+    "unicodeName": "disguised face",
+    "codePoint": "1F978",
+    "group": "smileys-emotion",
+    "subGroup": "face-hat"
+}, {
+    "slug": "smiling-face-with-sunglasses",
+    "character": "\ud83d\ude0e",
+    "unicodeName": "smiling face with sunglasses",
+    "codePoint": "1F60E",
+    "group": "smileys-emotion",
+    "subGroup": "face-glasses"
+}, {
+    "slug": "nerd-face",
+    "character": "\ud83e\udd13",
+    "unicodeName": "nerd face",
+    "codePoint": "1F913",
+    "group": "smileys-emotion",
+    "subGroup": "face-glasses"
+}, {
+    "slug": "face-with-monocle",
+    "character": "\ud83e\uddd0",
+    "unicodeName": "face with monocle",
+    "codePoint": "1F9D0",
+    "group": "smileys-emotion",
+    "subGroup": "face-glasses"
+}, {
+    "slug": "confused-face",
+    "character": "\ud83d\ude15",
+    "unicodeName": "confused face",
+    "codePoint": "1F615",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "worried-face",
+    "character": "\ud83d\ude1f",
+    "unicodeName": "worried face",
+    "codePoint": "1F61F",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "slightly-frowning-face",
+    "character": "\ud83d\ude41",
+    "unicodeName": "slightly frowning face",
+    "codePoint": "1F641",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "frowning-face",
+    "character": "\u2639\ufe0f",
+    "unicodeName": "frowning face",
+    "codePoint": "2639 FE0F",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "face-with-open-mouth",
+    "character": "\ud83d\ude2e",
+    "unicodeName": "face with open mouth",
+    "codePoint": "1F62E",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "hushed-face",
+    "character": "\ud83d\ude2f",
+    "unicodeName": "hushed face",
+    "codePoint": "1F62F",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "astonished-face",
+    "character": "\ud83d\ude32",
+    "unicodeName": "astonished face",
+    "codePoint": "1F632",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "flushed-face",
+    "character": "\ud83d\ude33",
+    "unicodeName": "flushed face",
+    "codePoint": "1F633",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "pleading-face",
+    "character": "\ud83e\udd7a",
+    "unicodeName": "pleading face",
+    "codePoint": "1F97A",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "frowning-face-with-open-mouth",
+    "character": "\ud83d\ude26",
+    "unicodeName": "frowning face with open mouth",
+    "codePoint": "1F626",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "anguished-face",
+    "character": "\ud83d\ude27",
+    "unicodeName": "anguished face",
+    "codePoint": "1F627",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "fearful-face",
+    "character": "\ud83d\ude28",
+    "unicodeName": "fearful face",
+    "codePoint": "1F628",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "anxious-face-with-sweat",
+    "character": "\ud83d\ude30",
+    "unicodeName": "anxious face with sweat",
+    "codePoint": "1F630",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "sad-but-relieved-face",
+    "character": "\ud83d\ude25",
+    "unicodeName": "sad but relieved face",
+    "codePoint": "1F625",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "crying-face",
+    "character": "\ud83d\ude22",
+    "unicodeName": "crying face",
+    "codePoint": "1F622",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "loudly-crying-face",
+    "character": "\ud83d\ude2d",
+    "unicodeName": "loudly crying face",
+    "codePoint": "1F62D",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "face-screaming-in-fear",
+    "character": "\ud83d\ude31",
+    "unicodeName": "face screaming in fear",
+    "codePoint": "1F631",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "confounded-face",
+    "character": "\ud83d\ude16",
+    "unicodeName": "confounded face",
+    "codePoint": "1F616",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "persevering-face",
+    "character": "\ud83d\ude23",
+    "unicodeName": "persevering face",
+    "codePoint": "1F623",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "disappointed-face",
+    "character": "\ud83d\ude1e",
+    "unicodeName": "disappointed face",
+    "codePoint": "1F61E",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "downcast-face-with-sweat",
+    "character": "\ud83d\ude13",
+    "unicodeName": "downcast face with sweat",
+    "codePoint": "1F613",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "weary-face",
+    "character": "\ud83d\ude29",
+    "unicodeName": "weary face",
+    "codePoint": "1F629",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "tired-face",
+    "character": "\ud83d\ude2b",
+    "unicodeName": "tired face",
+    "codePoint": "1F62B",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "yawning-face",
+    "character": "\ud83e\udd71",
+    "unicodeName": "yawning face",
+    "codePoint": "1F971",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "face-with-steam-from-nose",
+    "character": "\ud83d\ude24",
+    "unicodeName": "face with steam from nose",
+    "codePoint": "1F624",
+    "group": "smileys-emotion",
+    "subGroup": "face-negative"
+}, {
+    "slug": "pouting-face",
+    "character": "\ud83d\ude21",
+    "unicodeName": "pouting face",
+    "codePoint": "1F621",
+    "group": "smileys-emotion",
+    "subGroup": "face-negative"
+}, {
+    "slug": "angry-face",
+    "character": "\ud83d\ude20",
+    "unicodeName": "angry face",
+    "codePoint": "1F620",
+    "group": "smileys-emotion",
+    "subGroup": "face-negative"
+}, {
+    "slug": "face-with-symbols-on-mouth",
+    "character": "\ud83e\udd2c",
+    "unicodeName": "face with symbols on mouth",
+    "codePoint": "1F92C",
+    "group": "smileys-emotion",
+    "subGroup": "face-negative"
+}, {
+    "slug": "smiling-face-with-horns",
+    "character": "\ud83d\ude08",
+    "unicodeName": "smiling face with horns",
+    "codePoint": "1F608",
+    "group": "smileys-emotion",
+    "subGroup": "face-negative"
+}, {
+    "slug": "angry-face-with-horns",
+    "character": "\ud83d\udc7f",
+    "unicodeName": "angry face with horns",
+    "codePoint": "1F47F",
+    "group": "smileys-emotion",
+    "subGroup": "face-negative"
+}, {
+    "slug": "skull",
+    "character": "\ud83d\udc80",
+    "unicodeName": "skull",
+    "codePoint": "1F480",
+    "group": "smileys-emotion",
+    "subGroup": "face-negative"
+}, {
+    "slug": "skull-and-crossbones",
+    "character": "\u2620\ufe0f",
+    "unicodeName": "skull and crossbones",
+    "codePoint": "2620 FE0F",
+    "group": "smileys-emotion",
+    "subGroup": "face-negative"
+}, {
+    "slug": "pile-of-poo",
+    "character": "\ud83d\udca9",
+    "unicodeName": "pile of poo",
+    "codePoint": "1F4A9",
+    "group": "smileys-emotion",
+    "subGroup": "face-costume"
+}, {
+    "slug": "clown-face",
+    "character": "\ud83e\udd21",
+    "unicodeName": "clown face",
+    "codePoint": "1F921",
+    "group": "smileys-emotion",
+    "subGroup": "face-costume"
+}, {
+    "slug": "ogre",
+    "character": "\ud83d\udc79",
+    "unicodeName": "ogre",
+    "codePoint": "1F479",
+    "group": "smileys-emotion",
+    "subGroup": "face-costume"
+}, {
+    "slug": "goblin",
+    "character": "\ud83d\udc7a",
+    "unicodeName": "goblin",
+    "codePoint": "1F47A",
+    "group": "smileys-emotion",
+    "subGroup": "face-costume"
+}, {
+    "slug": "ghost",
+    "character": "\ud83d\udc7b",
+    "unicodeName": "ghost",
+    "codePoint": "1F47B",
+    "group": "smileys-emotion",
+    "subGroup": "face-costume"
+}, {
+    "slug": "alien",
+    "character": "\ud83d\udc7d",
+    "unicodeName": "alien",
+    "codePoint": "1F47D",
+    "group": "smileys-emotion",
+    "subGroup": "face-costume"
+}, {
+    "slug": "alien-monster",
+    "character": "\ud83d\udc7e",
+    "unicodeName": "alien monster",
+    "codePoint": "1F47E",
+    "group": "smileys-emotion",
+    "subGroup": "face-costume"
+}, {
+    "slug": "robot",
+    "character": "\ud83e\udd16",
+    "unicodeName": "robot",
+    "codePoint": "1F916",
+    "group": "smileys-emotion",
+    "subGroup": "face-costume"
+}, {
+    "slug": "grinning-cat",
+    "character": "\ud83d\ude3a",
+    "unicodeName": "grinning cat",
+    "codePoint": "1F63A",
+    "group": "smileys-emotion",
+    "subGroup": "cat-face"
+}, {
+    "slug": "grinning-cat-with-smiling-eyes",
+    "character": "\ud83d\ude38",
+    "unicodeName": "grinning cat with smiling eyes",
+    "codePoint": "1F638",
+    "group": "smileys-emotion",
+    "subGroup": "cat-face"
+}, {
+    "slug": "cat-with-tears-of-joy",
+    "character": "\ud83d\ude39",
+    "unicodeName": "cat with tears of joy",
+    "codePoint": "1F639",
+    "group": "smileys-emotion",
+    "subGroup": "cat-face"
+}, {
+    "slug": "smiling-cat-with-heart-eyes",
+    "character": "\ud83d\ude3b",
+    "unicodeName": "smiling cat with heart-eyes",
+    "codePoint": "1F63B",
+    "group": "smileys-emotion",
+    "subGroup": "cat-face"
+}, {
+    "slug": "cat-with-wry-smile",
+    "character": "\ud83d\ude3c",
+    "unicodeName": "cat with wry smile",
+    "codePoint": "1F63C",
+    "group": "smileys-emotion",
+    "subGroup": "cat-face"
+}, {
+    "slug": "kissing-cat",
+    "character": "\ud83d\ude3d",
+    "unicodeName": "kissing cat",
+    "codePoint": "1F63D",
+    "group": "smileys-emotion",
+    "subGroup": "cat-face"
+}, {
+    "slug": "weary-cat",
+    "character": "\ud83d\ude40",
+    "unicodeName": "weary cat",
+    "codePoint": "1F640",
+    "group": "smileys-emotion",
+    "subGroup": "cat-face"
+}, {
+    "slug": "crying-cat",
+    "character": "\ud83d\ude3f",
+    "unicodeName": "crying cat",
+    "codePoint": "1F63F",
+    "group": "smileys-emotion",
+    "subGroup": "cat-face"
+}, {
+    "slug": "pouting-cat",
+    "character": "\ud83d\ude3e",
+    "unicodeName": "pouting cat",
+    "codePoint": "1F63E",
+    "group": "smileys-emotion",
+    "subGroup": "cat-face"
+}, {
+    "slug": "see-no-evil-monkey",
+    "character": "\ud83d\ude48",
+    "unicodeName": "see-no-evil monkey",
+    "codePoint": "1F648",
+    "group": "smileys-emotion",
+    "subGroup": "monkey-face"
+}, {
+    "slug": "hear-no-evil-monkey",
+    "character": "\ud83d\ude49",
+    "unicodeName": "hear-no-evil monkey",
+    "codePoint": "1F649",
+    "group": "smileys-emotion",
+    "subGroup": "monkey-face"
+}, {
+    "slug": "speak-no-evil-monkey",
+    "character": "\ud83d\ude4a",
+    "unicodeName": "speak-no-evil monkey",
+    "codePoint": "1F64A",
+    "group": "smileys-emotion",
+    "subGroup": "monkey-face"
+}, {
+    "slug": "kiss-mark",
+    "character": "\ud83d\udc8b",
+    "unicodeName": "kiss mark",
+    "codePoint": "1F48B",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "love-letter",
+    "character": "\ud83d\udc8c",
+    "unicodeName": "love letter",
+    "codePoint": "1F48C",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "heart-with-arrow",
+    "character": "\ud83d\udc98",
+    "unicodeName": "heart with arrow",
+    "codePoint": "1F498",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "heart-with-ribbon",
+    "character": "\ud83d\udc9d",
+    "unicodeName": "heart with ribbon",
+    "codePoint": "1F49D",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "sparkling-heart",
+    "character": "\ud83d\udc96",
+    "unicodeName": "sparkling heart",
+    "codePoint": "1F496",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "growing-heart",
+    "character": "\ud83d\udc97",
+    "unicodeName": "growing heart",
+    "codePoint": "1F497",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "beating-heart",
+    "character": "\ud83d\udc93",
+    "unicodeName": "beating heart",
+    "codePoint": "1F493",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "revolving-hearts",
+    "character": "\ud83d\udc9e",
+    "unicodeName": "revolving hearts",
+    "codePoint": "1F49E",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "two-hearts",
+    "character": "\ud83d\udc95",
+    "unicodeName": "two hearts",
+    "codePoint": "1F495",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "heart-decoration",
+    "character": "\ud83d\udc9f",
+    "unicodeName": "heart decoration",
+    "codePoint": "1F49F",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "heart-exclamation",
+    "character": "\u2763\ufe0f",
+    "unicodeName": "heart exclamation",
+    "codePoint": "2763 FE0F",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "broken-heart",
+    "character": "\ud83d\udc94",
+    "unicodeName": "broken heart",
+    "codePoint": "1F494",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "red-heart",
+    "character": "\u2764\ufe0f",
+    "unicodeName": "red heart",
+    "codePoint": "2764 FE0F",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "orange-heart",
+    "character": "\ud83e\udde1",
+    "unicodeName": "orange heart",
+    "codePoint": "1F9E1",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "yellow-heart",
+    "character": "\ud83d\udc9b",
+    "unicodeName": "yellow heart",
+    "codePoint": "1F49B",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "green-heart",
+    "character": "\ud83d\udc9a",
+    "unicodeName": "green heart",
+    "codePoint": "1F49A",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "blue-heart",
+    "character": "\ud83d\udc99",
+    "unicodeName": "blue heart",
+    "codePoint": "1F499",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "purple-heart",
+    "character": "\ud83d\udc9c",
+    "unicodeName": "purple heart",
+    "codePoint": "1F49C",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "brown-heart",
+    "character": "\ud83e\udd0e",
+    "unicodeName": "brown heart",
+    "codePoint": "1F90E",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "black-heart",
+    "character": "\ud83d\udda4",
+    "unicodeName": "black heart",
+    "codePoint": "1F5A4",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "white-heart",
+    "character": "\ud83e\udd0d",
+    "unicodeName": "white heart",
+    "codePoint": "1F90D",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "hundred-points",
+    "character": "\ud83d\udcaf",
+    "unicodeName": "hundred points",
+    "codePoint": "1F4AF",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "anger-symbol",
+    "character": "\ud83d\udca2",
+    "unicodeName": "anger symbol",
+    "codePoint": "1F4A2",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "collision",
+    "character": "\ud83d\udca5",
+    "unicodeName": "collision",
+    "codePoint": "1F4A5",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "dizzy",
+    "character": "\ud83d\udcab",
+    "unicodeName": "dizzy",
+    "codePoint": "1F4AB",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "sweat-droplets",
+    "character": "\ud83d\udca6",
+    "unicodeName": "sweat droplets",
+    "codePoint": "1F4A6",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "dashing-away",
+    "character": "\ud83d\udca8",
+    "unicodeName": "dashing away",
+    "codePoint": "1F4A8",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "hole",
+    "character": "\ud83d\udd73\ufe0f",
+    "unicodeName": "hole",
+    "codePoint": "1F573 FE0F",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "bomb",
+    "character": "\ud83d\udca3",
+    "unicodeName": "bomb",
+    "codePoint": "1F4A3",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "speech-balloon",
+    "character": "\ud83d\udcac",
+    "unicodeName": "speech balloon",
+    "codePoint": "1F4AC",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "eye-in-speech-bubble",
+    "character": "\ud83d\udc41\ufe0f\u200d\ud83d\udde8\ufe0f",
+    "unicodeName": "eye in speech bubble",
+    "codePoint": "1F441 FE0F 200D 1F5E8 FE0F",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "left-speech-bubble",
+    "character": "\ud83d\udde8\ufe0f",
+    "unicodeName": "left speech bubble",
+    "codePoint": "1F5E8 FE0F",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "right-anger-bubble",
+    "character": "\ud83d\uddef\ufe0f",
+    "unicodeName": "right anger bubble",
+    "codePoint": "1F5EF FE0F",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "thought-balloon",
+    "character": "\ud83d\udcad",
+    "unicodeName": "thought balloon",
+    "codePoint": "1F4AD",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "zzz",
+    "character": "\ud83d\udca4",
+    "unicodeName": "zzz",
+    "codePoint": "1F4A4",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "e1-0-grinning-face",
+    "character": "\ud83d\ude00",
+    "unicodeName": "E1.0 grinning face",
+    "codePoint": "1F600",
+    "group": "smileys-emotion",
+    "subGroup": "face-smiling"
+}, {
+    "slug": "e0-6-grinning-face-with-big-eyes",
+    "character": "\ud83d\ude03",
+    "unicodeName": "E0.6 grinning face with big eyes",
+    "codePoint": "1F603",
+    "group": "smileys-emotion",
+    "subGroup": "face-smiling"
+}, {
+    "slug": "e0-6-grinning-face-with-smiling-eyes",
+    "character": "\ud83d\ude04",
+    "unicodeName": "E0.6 grinning face with smiling eyes",
+    "codePoint": "1F604",
+    "group": "smileys-emotion",
+    "subGroup": "face-smiling"
+}, {
+    "slug": "e0-6-beaming-face-with-smiling-eyes",
+    "character": "\ud83d\ude01",
+    "unicodeName": "E0.6 beaming face with smiling eyes",
+    "codePoint": "1F601",
+    "group": "smileys-emotion",
+    "subGroup": "face-smiling"
+}, {
+    "slug": "e0-6-grinning-squinting-face",
+    "character": "\ud83d\ude06",
+    "unicodeName": "E0.6 grinning squinting face",
+    "codePoint": "1F606",
+    "group": "smileys-emotion",
+    "subGroup": "face-smiling"
+}, {
+    "slug": "e0-6-grinning-face-with-sweat",
+    "character": "\ud83d\ude05",
+    "unicodeName": "E0.6 grinning face with sweat",
+    "codePoint": "1F605",
+    "group": "smileys-emotion",
+    "subGroup": "face-smiling"
+}, {
+    "slug": "e3-0-rolling-on-the-floor-laughing",
+    "character": "\ud83e\udd23",
+    "unicodeName": "E3.0 rolling on the floor laughing",
+    "codePoint": "1F923",
+    "group": "smileys-emotion",
+    "subGroup": "face-smiling"
+}, {
+    "slug": "e0-6-face-with-tears-of-joy",
+    "character": "\ud83d\ude02",
+    "unicodeName": "E0.6 face with tears of joy",
+    "codePoint": "1F602",
+    "group": "smileys-emotion",
+    "subGroup": "face-smiling"
+}, {
+    "slug": "e1-0-slightly-smiling-face",
+    "character": "\ud83d\ude42",
+    "unicodeName": "E1.0 slightly smiling face",
+    "codePoint": "1F642",
+    "group": "smileys-emotion",
+    "subGroup": "face-smiling"
+}, {
+    "slug": "e1-0-upside-down-face",
+    "character": "\ud83d\ude43",
+    "unicodeName": "E1.0 upside-down face",
+    "codePoint": "1F643",
+    "group": "smileys-emotion",
+    "subGroup": "face-smiling"
+}, {
+    "slug": "e0-6-winking-face",
+    "character": "\ud83d\ude09",
+    "unicodeName": "E0.6 winking face",
+    "codePoint": "1F609",
+    "group": "smileys-emotion",
+    "subGroup": "face-smiling"
+}, {
+    "slug": "e0-6-smiling-face-with-smiling-eyes",
+    "character": "\ud83d\ude0a",
+    "unicodeName": "E0.6 smiling face with smiling eyes",
+    "codePoint": "1F60A",
+    "group": "smileys-emotion",
+    "subGroup": "face-smiling"
+}, {
+    "slug": "e1-0-smiling-face-with-halo",
+    "character": "\ud83d\ude07",
+    "unicodeName": "E1.0 smiling face with halo",
+    "codePoint": "1F607",
+    "group": "smileys-emotion",
+    "subGroup": "face-smiling"
+}, {
+    "slug": "e11-0-smiling-face-with-hearts",
+    "character": "\ud83e\udd70",
+    "unicodeName": "E11.0 smiling face with hearts",
+    "codePoint": "1F970",
+    "group": "smileys-emotion",
+    "subGroup": "face-affection"
+}, {
+    "slug": "e0-6-smiling-face-with-heart-eyes",
+    "character": "\ud83d\ude0d",
+    "unicodeName": "E0.6 smiling face with heart-eyes",
+    "codePoint": "1F60D",
+    "group": "smileys-emotion",
+    "subGroup": "face-affection"
+}, {
+    "slug": "e5-0-star-struck",
+    "character": "\ud83e\udd29",
+    "unicodeName": "E5.0 star-struck",
+    "codePoint": "1F929",
+    "group": "smileys-emotion",
+    "subGroup": "face-affection"
+}, {
+    "slug": "e0-6-face-blowing-a-kiss",
+    "character": "\ud83d\ude18",
+    "unicodeName": "E0.6 face blowing a kiss",
+    "codePoint": "1F618",
+    "group": "smileys-emotion",
+    "subGroup": "face-affection"
+}, {
+    "slug": "e1-0-kissing-face",
+    "character": "\ud83d\ude17",
+    "unicodeName": "E1.0 kissing face",
+    "codePoint": "1F617",
+    "group": "smileys-emotion",
+    "subGroup": "face-affection"
+}, {
+    "slug": "e0-6-smiling-face",
+    "character": "\u263a\ufe0f",
+    "unicodeName": "E0.6 smiling face",
+    "codePoint": "263A FE0F",
+    "group": "smileys-emotion",
+    "subGroup": "face-affection"
+}, {
+    "slug": "e0-6-kissing-face-with-closed-eyes",
+    "character": "\ud83d\ude1a",
+    "unicodeName": "E0.6 kissing face with closed eyes",
+    "codePoint": "1F61A",
+    "group": "smileys-emotion",
+    "subGroup": "face-affection"
+}, {
+    "slug": "e1-0-kissing-face-with-smiling-eyes",
+    "character": "\ud83d\ude19",
+    "unicodeName": "E1.0 kissing face with smiling eyes",
+    "codePoint": "1F619",
+    "group": "smileys-emotion",
+    "subGroup": "face-affection"
+}, {
+    "slug": "e13-0-smiling-face-with-tear",
+    "character": "\ud83e\udd72",
+    "unicodeName": "E13.0 smiling face with tear",
+    "codePoint": "1F972",
+    "group": "smileys-emotion",
+    "subGroup": "face-affection"
+}, {
+    "slug": "e0-6-face-savoring-food",
+    "character": "\ud83d\ude0b",
+    "unicodeName": "E0.6 face savoring food",
+    "codePoint": "1F60B",
+    "group": "smileys-emotion",
+    "subGroup": "face-tongue"
+}, {
+    "slug": "e1-0-face-with-tongue",
+    "character": "\ud83d\ude1b",
+    "unicodeName": "E1.0 face with tongue",
+    "codePoint": "1F61B",
+    "group": "smileys-emotion",
+    "subGroup": "face-tongue"
+}, {
+    "slug": "e0-6-winking-face-with-tongue",
+    "character": "\ud83d\ude1c",
+    "unicodeName": "E0.6 winking face with tongue",
+    "codePoint": "1F61C",
+    "group": "smileys-emotion",
+    "subGroup": "face-tongue"
+}, {
+    "slug": "e5-0-zany-face",
+    "character": "\ud83e\udd2a",
+    "unicodeName": "E5.0 zany face",
+    "codePoint": "1F92A",
+    "group": "smileys-emotion",
+    "subGroup": "face-tongue"
+}, {
+    "slug": "e0-6-squinting-face-with-tongue",
+    "character": "\ud83d\ude1d",
+    "unicodeName": "E0.6 squinting face with tongue",
+    "codePoint": "1F61D",
+    "group": "smileys-emotion",
+    "subGroup": "face-tongue"
+}, {
+    "slug": "e1-0-money-mouth-face",
+    "character": "\ud83e\udd11",
+    "unicodeName": "E1.0 money-mouth face",
+    "codePoint": "1F911",
+    "group": "smileys-emotion",
+    "subGroup": "face-tongue"
+}, {
+    "slug": "e1-0-hugging-face",
+    "character": "\ud83e\udd17",
+    "unicodeName": "E1.0 hugging face",
+    "codePoint": "1F917",
+    "group": "smileys-emotion",
+    "subGroup": "face-hand"
+}, {
+    "slug": "e5-0-face-with-hand-over-mouth",
+    "character": "\ud83e\udd2d",
+    "unicodeName": "E5.0 face with hand over mouth",
+    "codePoint": "1F92D",
+    "group": "smileys-emotion",
+    "subGroup": "face-hand"
+}, {
+    "slug": "e5-0-shushing-face",
+    "character": "\ud83e\udd2b",
+    "unicodeName": "E5.0 shushing face",
+    "codePoint": "1F92B",
+    "group": "smileys-emotion",
+    "subGroup": "face-hand"
+}, {
+    "slug": "e1-0-thinking-face",
+    "character": "\ud83e\udd14",
+    "unicodeName": "E1.0 thinking face",
+    "codePoint": "1F914",
+    "group": "smileys-emotion",
+    "subGroup": "face-hand"
+}, {
+    "slug": "e1-0-zipper-mouth-face",
+    "character": "\ud83e\udd10",
+    "unicodeName": "E1.0 zipper-mouth face",
+    "codePoint": "1F910",
+    "group": "smileys-emotion",
+    "subGroup": "face-neutral-skeptical"
+}, {
+    "slug": "e5-0-face-with-raised-eyebrow",
+    "character": "\ud83e\udd28",
+    "unicodeName": "E5.0 face with raised eyebrow",
+    "codePoint": "1F928",
+    "group": "smileys-emotion",
+    "subGroup": "face-neutral-skeptical"
+}, {
+    "slug": "e0-7-neutral-face",
+    "character": "\ud83d\ude10",
+    "unicodeName": "E0.7 neutral face",
+    "codePoint": "1F610",
+    "group": "smileys-emotion",
+    "subGroup": "face-neutral-skeptical"
+}, {
+    "slug": "e1-0-expressionless-face",
+    "character": "\ud83d\ude11",
+    "unicodeName": "E1.0 expressionless face",
+    "codePoint": "1F611",
+    "group": "smileys-emotion",
+    "subGroup": "face-neutral-skeptical"
+}, {
+    "slug": "e1-0-face-without-mouth",
+    "character": "\ud83d\ude36",
+    "unicodeName": "E1.0 face without mouth",
+    "codePoint": "1F636",
+    "group": "smileys-emotion",
+    "subGroup": "face-neutral-skeptical"
+}, {
+    "slug": "e0-6-smirking-face",
+    "character": "\ud83d\ude0f",
+    "unicodeName": "E0.6 smirking face",
+    "codePoint": "1F60F",
+    "group": "smileys-emotion",
+    "subGroup": "face-neutral-skeptical"
+}, {
+    "slug": "e0-6-unamused-face",
+    "character": "\ud83d\ude12",
+    "unicodeName": "E0.6 unamused face",
+    "codePoint": "1F612",
+    "group": "smileys-emotion",
+    "subGroup": "face-neutral-skeptical"
+}, {
+    "slug": "e1-0-face-with-rolling-eyes",
+    "character": "\ud83d\ude44",
+    "unicodeName": "E1.0 face with rolling eyes",
+    "codePoint": "1F644",
+    "group": "smileys-emotion",
+    "subGroup": "face-neutral-skeptical"
+}, {
+    "slug": "e1-0-grimacing-face",
+    "character": "\ud83d\ude2c",
+    "unicodeName": "E1.0 grimacing face",
+    "codePoint": "1F62C",
+    "group": "smileys-emotion",
+    "subGroup": "face-neutral-skeptical"
+}, {
+    "slug": "e3-0-lying-face",
+    "character": "\ud83e\udd25",
+    "unicodeName": "E3.0 lying face",
+    "codePoint": "1F925",
+    "group": "smileys-emotion",
+    "subGroup": "face-neutral-skeptical"
+}, {
+    "slug": "e0-6-relieved-face",
+    "character": "\ud83d\ude0c",
+    "unicodeName": "E0.6 relieved face",
+    "codePoint": "1F60C",
+    "group": "smileys-emotion",
+    "subGroup": "face-sleepy"
+}, {
+    "slug": "e0-6-pensive-face",
+    "character": "\ud83d\ude14",
+    "unicodeName": "E0.6 pensive face",
+    "codePoint": "1F614",
+    "group": "smileys-emotion",
+    "subGroup": "face-sleepy"
+}, {
+    "slug": "e0-6-sleepy-face",
+    "character": "\ud83d\ude2a",
+    "unicodeName": "E0.6 sleepy face",
+    "codePoint": "1F62A",
+    "group": "smileys-emotion",
+    "subGroup": "face-sleepy"
+}, {
+    "slug": "e3-0-drooling-face",
+    "character": "\ud83e\udd24",
+    "unicodeName": "E3.0 drooling face",
+    "codePoint": "1F924",
+    "group": "smileys-emotion",
+    "subGroup": "face-sleepy"
+}, {
+    "slug": "e1-0-sleeping-face",
+    "character": "\ud83d\ude34",
+    "unicodeName": "E1.0 sleeping face",
+    "codePoint": "1F634",
+    "group": "smileys-emotion",
+    "subGroup": "face-sleepy"
+}, {
+    "slug": "e0-6-face-with-medical-mask",
+    "character": "\ud83d\ude37",
+    "unicodeName": "E0.6 face with medical mask",
+    "codePoint": "1F637",
+    "group": "smileys-emotion",
+    "subGroup": "face-unwell"
+}, {
+    "slug": "e1-0-face-with-thermometer",
+    "character": "\ud83e\udd12",
+    "unicodeName": "E1.0 face with thermometer",
+    "codePoint": "1F912",
+    "group": "smileys-emotion",
+    "subGroup": "face-unwell"
+}, {
+    "slug": "e1-0-face-with-head-bandage",
+    "character": "\ud83e\udd15",
+    "unicodeName": "E1.0 face with head-bandage",
+    "codePoint": "1F915",
+    "group": "smileys-emotion",
+    "subGroup": "face-unwell"
+}, {
+    "slug": "e3-0-nauseated-face",
+    "character": "\ud83e\udd22",
+    "unicodeName": "E3.0 nauseated face",
+    "codePoint": "1F922",
+    "group": "smileys-emotion",
+    "subGroup": "face-unwell"
+}, {
+    "slug": "e5-0-face-vomiting",
+    "character": "\ud83e\udd2e",
+    "unicodeName": "E5.0 face vomiting",
+    "codePoint": "1F92E",
+    "group": "smileys-emotion",
+    "subGroup": "face-unwell"
+}, {
+    "slug": "e3-0-sneezing-face",
+    "character": "\ud83e\udd27",
+    "unicodeName": "E3.0 sneezing face",
+    "codePoint": "1F927",
+    "group": "smileys-emotion",
+    "subGroup": "face-unwell"
+}, {
+    "slug": "e11-0-hot-face",
+    "character": "\ud83e\udd75",
+    "unicodeName": "E11.0 hot face",
+    "codePoint": "1F975",
+    "group": "smileys-emotion",
+    "subGroup": "face-unwell"
+}, {
+    "slug": "e11-0-cold-face",
+    "character": "\ud83e\udd76",
+    "unicodeName": "E11.0 cold face",
+    "codePoint": "1F976",
+    "group": "smileys-emotion",
+    "subGroup": "face-unwell"
+}, {
+    "slug": "e11-0-woozy-face",
+    "character": "\ud83e\udd74",
+    "unicodeName": "E11.0 woozy face",
+    "codePoint": "1F974",
+    "group": "smileys-emotion",
+    "subGroup": "face-unwell"
+}, {
+    "slug": "e0-6-dizzy-face",
+    "character": "\ud83d\ude35",
+    "unicodeName": "E0.6 dizzy face",
+    "codePoint": "1F635",
+    "group": "smileys-emotion",
+    "subGroup": "face-unwell"
+}, {
+    "slug": "e5-0-exploding-head",
+    "character": "\ud83e\udd2f",
+    "unicodeName": "E5.0 exploding head",
+    "codePoint": "1F92F",
+    "group": "smileys-emotion",
+    "subGroup": "face-unwell"
+}, {
+    "slug": "e3-0-cowboy-hat-face",
+    "character": "\ud83e\udd20",
+    "unicodeName": "E3.0 cowboy hat face",
+    "codePoint": "1F920",
+    "group": "smileys-emotion",
+    "subGroup": "face-hat"
+}, {
+    "slug": "e11-0-partying-face",
+    "character": "\ud83e\udd73",
+    "unicodeName": "E11.0 partying face",
+    "codePoint": "1F973",
+    "group": "smileys-emotion",
+    "subGroup": "face-hat"
+}, {
+    "slug": "e13-0-disguised-face",
+    "character": "\ud83e\udd78",
+    "unicodeName": "E13.0 disguised face",
+    "codePoint": "1F978",
+    "group": "smileys-emotion",
+    "subGroup": "face-hat"
+}, {
+    "slug": "e1-0-smiling-face-with-sunglasses",
+    "character": "\ud83d\ude0e",
+    "unicodeName": "E1.0 smiling face with sunglasses",
+    "codePoint": "1F60E",
+    "group": "smileys-emotion",
+    "subGroup": "face-glasses"
+}, {
+    "slug": "e1-0-nerd-face",
+    "character": "\ud83e\udd13",
+    "unicodeName": "E1.0 nerd face",
+    "codePoint": "1F913",
+    "group": "smileys-emotion",
+    "subGroup": "face-glasses"
+}, {
+    "slug": "e5-0-face-with-monocle",
+    "character": "\ud83e\uddd0",
+    "unicodeName": "E5.0 face with monocle",
+    "codePoint": "1F9D0",
+    "group": "smileys-emotion",
+    "subGroup": "face-glasses"
+}, {
+    "slug": "e1-0-confused-face",
+    "character": "\ud83d\ude15",
+    "unicodeName": "E1.0 confused face",
+    "codePoint": "1F615",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "e1-0-worried-face",
+    "character": "\ud83d\ude1f",
+    "unicodeName": "E1.0 worried face",
+    "codePoint": "1F61F",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "e1-0-slightly-frowning-face",
+    "character": "\ud83d\ude41",
+    "unicodeName": "E1.0 slightly frowning face",
+    "codePoint": "1F641",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "e0-7-frowning-face",
+    "character": "\u2639\ufe0f",
+    "unicodeName": "E0.7 frowning face",
+    "codePoint": "2639 FE0F",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "e1-0-face-with-open-mouth",
+    "character": "\ud83d\ude2e",
+    "unicodeName": "E1.0 face with open mouth",
+    "codePoint": "1F62E",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "e1-0-hushed-face",
+    "character": "\ud83d\ude2f",
+    "unicodeName": "E1.0 hushed face",
+    "codePoint": "1F62F",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "e0-6-astonished-face",
+    "character": "\ud83d\ude32",
+    "unicodeName": "E0.6 astonished face",
+    "codePoint": "1F632",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "e0-6-flushed-face",
+    "character": "\ud83d\ude33",
+    "unicodeName": "E0.6 flushed face",
+    "codePoint": "1F633",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "e11-0-pleading-face",
+    "character": "\ud83e\udd7a",
+    "unicodeName": "E11.0 pleading face",
+    "codePoint": "1F97A",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "e1-0-frowning-face-with-open-mouth",
+    "character": "\ud83d\ude26",
+    "unicodeName": "E1.0 frowning face with open mouth",
+    "codePoint": "1F626",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "e1-0-anguished-face",
+    "character": "\ud83d\ude27",
+    "unicodeName": "E1.0 anguished face",
+    "codePoint": "1F627",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "e0-6-fearful-face",
+    "character": "\ud83d\ude28",
+    "unicodeName": "E0.6 fearful face",
+    "codePoint": "1F628",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "e0-6-anxious-face-with-sweat",
+    "character": "\ud83d\ude30",
+    "unicodeName": "E0.6 anxious face with sweat",
+    "codePoint": "1F630",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "e0-6-sad-but-relieved-face",
+    "character": "\ud83d\ude25",
+    "unicodeName": "E0.6 sad but relieved face",
+    "codePoint": "1F625",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "e0-6-crying-face",
+    "character": "\ud83d\ude22",
+    "unicodeName": "E0.6 crying face",
+    "codePoint": "1F622",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "e0-6-loudly-crying-face",
+    "character": "\ud83d\ude2d",
+    "unicodeName": "E0.6 loudly crying face",
+    "codePoint": "1F62D",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "e0-6-face-screaming-in-fear",
+    "character": "\ud83d\ude31",
+    "unicodeName": "E0.6 face screaming in fear",
+    "codePoint": "1F631",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "e0-6-confounded-face",
+    "character": "\ud83d\ude16",
+    "unicodeName": "E0.6 confounded face",
+    "codePoint": "1F616",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "e0-6-persevering-face",
+    "character": "\ud83d\ude23",
+    "unicodeName": "E0.6 persevering face",
+    "codePoint": "1F623",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "e0-6-disappointed-face",
+    "character": "\ud83d\ude1e",
+    "unicodeName": "E0.6 disappointed face",
+    "codePoint": "1F61E",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "e0-6-downcast-face-with-sweat",
+    "character": "\ud83d\ude13",
+    "unicodeName": "E0.6 downcast face with sweat",
+    "codePoint": "1F613",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "e0-6-weary-face",
+    "character": "\ud83d\ude29",
+    "unicodeName": "E0.6 weary face",
+    "codePoint": "1F629",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "e0-6-tired-face",
+    "character": "\ud83d\ude2b",
+    "unicodeName": "E0.6 tired face",
+    "codePoint": "1F62B",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "e12-0-yawning-face",
+    "character": "\ud83e\udd71",
+    "unicodeName": "E12.0 yawning face",
+    "codePoint": "1F971",
+    "group": "smileys-emotion",
+    "subGroup": "face-concerned"
+}, {
+    "slug": "e0-6-face-with-steam-from-nose",
+    "character": "\ud83d\ude24",
+    "unicodeName": "E0.6 face with steam from nose",
+    "codePoint": "1F624",
+    "group": "smileys-emotion",
+    "subGroup": "face-negative"
+}, {
+    "slug": "e0-6-pouting-face",
+    "character": "\ud83d\ude21",
+    "unicodeName": "E0.6 pouting face",
+    "codePoint": "1F621",
+    "group": "smileys-emotion",
+    "subGroup": "face-negative"
+}, {
+    "slug": "e0-6-angry-face",
+    "character": "\ud83d\ude20",
+    "unicodeName": "E0.6 angry face",
+    "codePoint": "1F620",
+    "group": "smileys-emotion",
+    "subGroup": "face-negative"
+}, {
+    "slug": "e5-0-face-with-symbols-on-mouth",
+    "character": "\ud83e\udd2c",
+    "unicodeName": "E5.0 face with symbols on mouth",
+    "codePoint": "1F92C",
+    "group": "smileys-emotion",
+    "subGroup": "face-negative"
+}, {
+    "slug": "e1-0-smiling-face-with-horns",
+    "character": "\ud83d\ude08",
+    "unicodeName": "E1.0 smiling face with horns",
+    "codePoint": "1F608",
+    "group": "smileys-emotion",
+    "subGroup": "face-negative"
+}, {
+    "slug": "e0-6-angry-face-with-horns",
+    "character": "\ud83d\udc7f",
+    "unicodeName": "E0.6 angry face with horns",
+    "codePoint": "1F47F",
+    "group": "smileys-emotion",
+    "subGroup": "face-negative"
+}, {
+    "slug": "e0-6-skull",
+    "character": "\ud83d\udc80",
+    "unicodeName": "E0.6 skull",
+    "codePoint": "1F480",
+    "group": "smileys-emotion",
+    "subGroup": "face-negative"
+}, {
+    "slug": "e1-0-skull-and-crossbones",
+    "character": "\u2620\ufe0f",
+    "unicodeName": "E1.0 skull and crossbones",
+    "codePoint": "2620 FE0F",
+    "group": "smileys-emotion",
+    "subGroup": "face-negative"
+}, {
+    "slug": "e0-6-pile-of-poo",
+    "character": "\ud83d\udca9",
+    "unicodeName": "E0.6 pile of poo",
+    "codePoint": "1F4A9",
+    "group": "smileys-emotion",
+    "subGroup": "face-costume"
+}, {
+    "slug": "e3-0-clown-face",
+    "character": "\ud83e\udd21",
+    "unicodeName": "E3.0 clown face",
+    "codePoint": "1F921",
+    "group": "smileys-emotion",
+    "subGroup": "face-costume"
+}, {
+    "slug": "e0-6-ogre",
+    "character": "\ud83d\udc79",
+    "unicodeName": "E0.6 ogre",
+    "codePoint": "1F479",
+    "group": "smileys-emotion",
+    "subGroup": "face-costume"
+}, {
+    "slug": "e0-6-goblin",
+    "character": "\ud83d\udc7a",
+    "unicodeName": "E0.6 goblin",
+    "codePoint": "1F47A",
+    "group": "smileys-emotion",
+    "subGroup": "face-costume"
+}, {
+    "slug": "e0-6-ghost",
+    "character": "\ud83d\udc7b",
+    "unicodeName": "E0.6 ghost",
+    "codePoint": "1F47B",
+    "group": "smileys-emotion",
+    "subGroup": "face-costume"
+}, {
+    "slug": "e0-6-alien",
+    "character": "\ud83d\udc7d",
+    "unicodeName": "E0.6 alien",
+    "codePoint": "1F47D",
+    "group": "smileys-emotion",
+    "subGroup": "face-costume"
+}, {
+    "slug": "e0-6-alien-monster",
+    "character": "\ud83d\udc7e",
+    "unicodeName": "E0.6 alien monster",
+    "codePoint": "1F47E",
+    "group": "smileys-emotion",
+    "subGroup": "face-costume"
+}, {
+    "slug": "e1-0-robot",
+    "character": "\ud83e\udd16",
+    "unicodeName": "E1.0 robot",
+    "codePoint": "1F916",
+    "group": "smileys-emotion",
+    "subGroup": "face-costume"
+}, {
+    "slug": "e0-6-grinning-cat",
+    "character": "\ud83d\ude3a",
+    "unicodeName": "E0.6 grinning cat",
+    "codePoint": "1F63A",
+    "group": "smileys-emotion",
+    "subGroup": "cat-face"
+}, {
+    "slug": "e0-6-grinning-cat-with-smiling-eyes",
+    "character": "\ud83d\ude38",
+    "unicodeName": "E0.6 grinning cat with smiling eyes",
+    "codePoint": "1F638",
+    "group": "smileys-emotion",
+    "subGroup": "cat-face"
+}, {
+    "slug": "e0-6-cat-with-tears-of-joy",
+    "character": "\ud83d\ude39",
+    "unicodeName": "E0.6 cat with tears of joy",
+    "codePoint": "1F639",
+    "group": "smileys-emotion",
+    "subGroup": "cat-face"
+}, {
+    "slug": "e0-6-smiling-cat-with-heart-eyes",
+    "character": "\ud83d\ude3b",
+    "unicodeName": "E0.6 smiling cat with heart-eyes",
+    "codePoint": "1F63B",
+    "group": "smileys-emotion",
+    "subGroup": "cat-face"
+}, {
+    "slug": "e0-6-cat-with-wry-smile",
+    "character": "\ud83d\ude3c",
+    "unicodeName": "E0.6 cat with wry smile",
+    "codePoint": "1F63C",
+    "group": "smileys-emotion",
+    "subGroup": "cat-face"
+}, {
+    "slug": "e0-6-kissing-cat",
+    "character": "\ud83d\ude3d",
+    "unicodeName": "E0.6 kissing cat",
+    "codePoint": "1F63D",
+    "group": "smileys-emotion",
+    "subGroup": "cat-face"
+}, {
+    "slug": "e0-6-weary-cat",
+    "character": "\ud83d\ude40",
+    "unicodeName": "E0.6 weary cat",
+    "codePoint": "1F640",
+    "group": "smileys-emotion",
+    "subGroup": "cat-face"
+}, {
+    "slug": "e0-6-crying-cat",
+    "character": "\ud83d\ude3f",
+    "unicodeName": "E0.6 crying cat",
+    "codePoint": "1F63F",
+    "group": "smileys-emotion",
+    "subGroup": "cat-face"
+}, {
+    "slug": "e0-6-pouting-cat",
+    "character": "\ud83d\ude3e",
+    "unicodeName": "E0.6 pouting cat",
+    "codePoint": "1F63E",
+    "group": "smileys-emotion",
+    "subGroup": "cat-face"
+}, {
+    "slug": "e0-6-see-no-evil-monkey",
+    "character": "\ud83d\ude48",
+    "unicodeName": "E0.6 see-no-evil monkey",
+    "codePoint": "1F648",
+    "group": "smileys-emotion",
+    "subGroup": "monkey-face"
+}, {
+    "slug": "e0-6-hear-no-evil-monkey",
+    "character": "\ud83d\ude49",
+    "unicodeName": "E0.6 hear-no-evil monkey",
+    "codePoint": "1F649",
+    "group": "smileys-emotion",
+    "subGroup": "monkey-face"
+}, {
+    "slug": "e0-6-speak-no-evil-monkey",
+    "character": "\ud83d\ude4a",
+    "unicodeName": "E0.6 speak-no-evil monkey",
+    "codePoint": "1F64A",
+    "group": "smileys-emotion",
+    "subGroup": "monkey-face"
+}, {
+    "slug": "e0-6-kiss-mark",
+    "character": "\ud83d\udc8b",
+    "unicodeName": "E0.6 kiss mark",
+    "codePoint": "1F48B",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "e0-6-love-letter",
+    "character": "\ud83d\udc8c",
+    "unicodeName": "E0.6 love letter",
+    "codePoint": "1F48C",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "e0-6-heart-with-arrow",
+    "character": "\ud83d\udc98",
+    "unicodeName": "E0.6 heart with arrow",
+    "codePoint": "1F498",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "e0-6-heart-with-ribbon",
+    "character": "\ud83d\udc9d",
+    "unicodeName": "E0.6 heart with ribbon",
+    "codePoint": "1F49D",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "e0-6-sparkling-heart",
+    "character": "\ud83d\udc96",
+    "unicodeName": "E0.6 sparkling heart",
+    "codePoint": "1F496",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "e0-6-growing-heart",
+    "character": "\ud83d\udc97",
+    "unicodeName": "E0.6 growing heart",
+    "codePoint": "1F497",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "e0-6-beating-heart",
+    "character": "\ud83d\udc93",
+    "unicodeName": "E0.6 beating heart",
+    "codePoint": "1F493",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "e0-6-revolving-hearts",
+    "character": "\ud83d\udc9e",
+    "unicodeName": "E0.6 revolving hearts",
+    "codePoint": "1F49E",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "e0-6-two-hearts",
+    "character": "\ud83d\udc95",
+    "unicodeName": "E0.6 two hearts",
+    "codePoint": "1F495",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "e0-6-heart-decoration",
+    "character": "\ud83d\udc9f",
+    "unicodeName": "E0.6 heart decoration",
+    "codePoint": "1F49F",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "e1-0-heart-exclamation",
+    "character": "\u2763\ufe0f",
+    "unicodeName": "E1.0 heart exclamation",
+    "codePoint": "2763 FE0F",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "e0-6-broken-heart",
+    "character": "\ud83d\udc94",
+    "unicodeName": "E0.6 broken heart",
+    "codePoint": "1F494",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "e0-6-red-heart",
+    "character": "\u2764\ufe0f",
+    "unicodeName": "E0.6 red heart",
+    "codePoint": "2764 FE0F",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "e5-0-orange-heart",
+    "character": "\ud83e\udde1",
+    "unicodeName": "E5.0 orange heart",
+    "codePoint": "1F9E1",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "e0-6-yellow-heart",
+    "character": "\ud83d\udc9b",
+    "unicodeName": "E0.6 yellow heart",
+    "codePoint": "1F49B",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "e0-6-green-heart",
+    "character": "\ud83d\udc9a",
+    "unicodeName": "E0.6 green heart",
+    "codePoint": "1F49A",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "e0-6-blue-heart",
+    "character": "\ud83d\udc99",
+    "unicodeName": "E0.6 blue heart",
+    "codePoint": "1F499",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "e0-6-purple-heart",
+    "character": "\ud83d\udc9c",
+    "unicodeName": "E0.6 purple heart",
+    "codePoint": "1F49C",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "e12-0-brown-heart",
+    "character": "\ud83e\udd0e",
+    "unicodeName": "E12.0 brown heart",
+    "codePoint": "1F90E",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "e3-0-black-heart",
+    "character": "\ud83d\udda4",
+    "unicodeName": "E3.0 black heart",
+    "codePoint": "1F5A4",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "e12-0-white-heart",
+    "character": "\ud83e\udd0d",
+    "unicodeName": "E12.0 white heart",
+    "codePoint": "1F90D",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "e0-6-hundred-points",
+    "character": "\ud83d\udcaf",
+    "unicodeName": "E0.6 hundred points",
+    "codePoint": "1F4AF",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "e0-6-anger-symbol",
+    "character": "\ud83d\udca2",
+    "unicodeName": "E0.6 anger symbol",
+    "codePoint": "1F4A2",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "e0-6-collision",
+    "character": "\ud83d\udca5",
+    "unicodeName": "E0.6 collision",
+    "codePoint": "1F4A5",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "e0-6-dizzy",
+    "character": "\ud83d\udcab",
+    "unicodeName": "E0.6 dizzy",
+    "codePoint": "1F4AB",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "e0-6-sweat-droplets",
+    "character": "\ud83d\udca6",
+    "unicodeName": "E0.6 sweat droplets",
+    "codePoint": "1F4A6",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "e0-6-dashing-away",
+    "character": "\ud83d\udca8",
+    "unicodeName": "E0.6 dashing away",
+    "codePoint": "1F4A8",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "e0-7-hole",
+    "character": "\ud83d\udd73\ufe0f",
+    "unicodeName": "E0.7 hole",
+    "codePoint": "1F573 FE0F",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "e0-6-bomb",
+    "character": "\ud83d\udca3",
+    "unicodeName": "E0.6 bomb",
+    "codePoint": "1F4A3",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "e0-6-speech-balloon",
+    "character": "\ud83d\udcac",
+    "unicodeName": "E0.6 speech balloon",
+    "codePoint": "1F4AC",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "e2-0-eye-in-speech-bubble",
+    "character": "\ud83d\udc41\ufe0f\u200d\ud83d\udde8\ufe0f",
+    "unicodeName": "E2.0 eye in speech bubble",
+    "codePoint": "1F441 FE0F 200D 1F5E8 FE0F",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "e2-0-left-speech-bubble",
+    "character": "\ud83d\udde8\ufe0f",
+    "unicodeName": "E2.0 left speech bubble",
+    "codePoint": "1F5E8 FE0F",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "e0-7-right-anger-bubble",
+    "character": "\ud83d\uddef\ufe0f",
+    "unicodeName": "E0.7 right anger bubble",
+    "codePoint": "1F5EF FE0F",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "e1-0-thought-balloon",
+    "character": "\ud83d\udcad",
+    "unicodeName": "E1.0 thought balloon",
+    "codePoint": "1F4AD",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}, {
+    "slug": "e0-6-zzz",
+    "character": "\ud83d\udca4",
+    "unicodeName": "E0.6 zzz",
+    "codePoint": "1F4A4",
+    "group": "smileys-emotion",
+    "subGroup": "emotion"
+}]

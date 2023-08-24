@@ -1,0 +1,66 @@
+spring:
+  profiles:
+    default: dev
+
+  datasource:
+    url: jdbc:h2:tcp://localhost/~/goodbe
+    username: sa
+    password:
+    driver-class-name: org.h2.Driver
+  jpa:
+    hibernate:
+      ddl-auto: create
+    properties:
+      hibernate:
+        show_sql: true
+        format_sql: true
+        default_batch_fetch_size: 1000
+  #    open-in-view: false
+  servlet:
+    multipart:
+      max-file-size: 20MB
+      max-request-size: 30MB
+  cache:
+    type: redis
+  redis:
+    host: localhost
+    port: 6379
+#server:
+#  error:
+#    whitelabel:
+#      enabled: false
+
+file:
+  dir:
+    local: /Users/sehyun/study/file/
+
+server:
+  ip:
+    local: http://localhost
+    remote: 172.26.3.26
+#  session:
+#    store-type: redis
+#logging:
+#  level:
+#    org:
+#      apache:
+#        coyote:
+#          http11: debug
+#
+
+#swagger
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
+    groups-order: DESC
+    operationsSorter: method
+    disable-swagger-default-url: true
+    display-request-duration: true
+  api-docs:
+    path: /api-docs
+  show-actuator: true
+  default-consumes-media-type: application/json
+  default-produces-media-type: application/json
+#  paths-to-match:
+#    - /**
+

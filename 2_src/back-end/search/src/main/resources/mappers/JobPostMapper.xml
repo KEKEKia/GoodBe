@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.goodbe.search.mapper.JobPostMapper">
+
+	<select id="selectJobData" resultType="JobPost">
+        select id as id, company_id as companyId, company_data companyData,
+                         company_url as companyUrl, job_content as jobContent,
+                         end_date as endDate, sal as sal, job_data  as jobData
+        from job_post;
+    </select>
+<!-- 
+    <select id="selectJobDataByKeyword" parameterType="List" resultType="JobPost">
+        select id as id, company_id as companyId, company_data companyData,
+                         company_url as companyUrl, job_content as jobContent,
+                         end_date as endDate, sal as sal, job_data  as jobData
+        from job_post
+        where company_id like #{keyword}
+            or company_data like #{keyword}
+            or job_content like #{keyword}
+            or job_data like #{keyword};
+    </select> -->
+
+    <select id="selectJobDataByKeyword" parameterType="java.util.List" resultType="JobPost">
+        select id as id, company_id as companyId, company_data companyData,
+                         company_url as companyUrl, job_content as jobContent,
+                         end_date as endDate, sal as sal, job_data  as jobData
+        from job_post
+        <where>
+            <foreach item="item" index="index" collection="list">
+                <if test="index == 0">
+                    company_id like #{item}
+                    or company_data like #{item}
+                    or job_content like #{item}
+                    or job_data like #{item}
+                </if>
+                <if test="index != 0">
+                    or company_id like #{item}
+                    or company_data like #{item}
+                    or job_content like #{item}
+                    or job_data like #{item}
+                </if>
+            </foreach>
+            ;
+        </where>
+    </select>
+</mapper>

@@ -1,0 +1,194 @@
+* {
+  box-sizing: border-box;
+}
+
+/* body {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+} */
+.mine {
+  text-align: right;
+}
+
+.system {
+  text-align: center;
+}
+
+.mine img,
+.other img {
+  max-width: 300px;
+  display: inline-block;
+  border: 1px solid silver;
+  border-radius: 5px;
+  padding: 2px 5px;
+}
+
+.mine div:first-child,
+.other div:first-child {
+  font-size: 12px;
+}
+
+.mine div:last-child,
+.other div:last-child {
+  display: inline-block;
+  border: 1px solid silver;
+  border-radius: 5px;
+  padding: 2px 5px;
+  max-width: 300px;
+}
+
+/* #exit-btn { position: absolute; top: 20px; right: 20px; } */
+#chat-list {
+  height: 500px;
+  overflow: auto;
+  padding: 5px;
+}
+
+#chat-form {
+  text-align: right;
+  width: 100vw !important;
+  max-width: none;
+  border: none;
+  padding-top: 0px;
+  /* background-color: aquamarine; */
+  /* display: flex;
+  justify-content: space-between; */
+}
+
+#chat-form>div{
+  /* background-color: blue; */
+  display: flex;
+  justify-content: space-between;
+}
+
+label[for='gif'],
+#chat,
+#chat-form [type='submit'] {
+  display: inline-block;
+  height: 30px;
+  vertical-align: top;
+}
+
+label[for='gif'] {
+  cursor: pointer;
+  padding: 5px;
+}
+
+#gif {
+  display: none;
+}
+
+table,
+table th,
+table td {
+  text-align: center;
+  border: 1px solid silver;
+  border-collapse: collapse;
+}
+
+
+p {
+  text-decoration: none;
+}
+
+.btn-primary {
+  width: 100%;
+}
+
+fieldset {
+  width: 90vw;
+}
+
+
+
+
+
+#chat2 .form-control {
+  border-color: transparent;
+}
+
+#chat2 .form-control:focus {
+  border-color: transparent;
+  box-shadow: inset 0px 0px 0px 1px transparent;
+}
+
+.divider:after,
+.divider:before {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: #eee;
+}
+
+
+#emoticon-panel {
+  display: none;
+  width: 500px;
+  position: absolute;
+  right: 0;
+
+  background-color: white;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px 20px;
+}
+
+.emoticon {
+  border: none;
+  background-color: white;
+}
+
+#makeChatroom {
+  position: absolute;
+  right: 10px;
+  text-align: end;
+  text-decoration: none;
+  color: grey;
+}
+
+#chat-list {
+  border: 1px solid grey;
+  border-radius: 20px;
+  ;
+  width: 90vw;
+  padding: 10px;
+}
+
+fieldset {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  border-radius: 10px !important;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 20px 10px 0 60px;
+}
+
+.chatlargeInput {
+  width: 100%;
+  max-width: none;
+}
+
+#good {
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+}
+
+
+#bigDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

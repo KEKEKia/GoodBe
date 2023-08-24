@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+  <title>My App</title>
+  <link href="https://fonts.googleapis.com/css2?family=Istok+Web:wght@400;700&display=swap" rel="stylesheet">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <meta
+    name="description"
+    content="Web site created using create-react-app"
+  />
+  <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+
+  <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+
+  <title>React App</title>
+
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <!-- 스크립트 파일의 상대 경로 수정 -->
+  <script type="text/javascript" src="../resources/static/smarteditor/js/HuskyEZCreator.js" charset="utf-8"></script>
+
+  <script>
+    let oEditors = [];
+
+    function smartEditor() {
+      console.log("Naver SmartEditor");
+      if (typeof nhn !== 'undefined' && nhn.husky && nhn.husky.EZCreator) {
+        nhn.husky.EZCreator.createInIFrame({
+          oAppRef: oEditors,
+          elPlaceHolder: "editorTxt111",
+          // 스킨 파일의 상대 경로 수정
+          sSkinURI: "SmartEditor2Skin.html",
+          fCreator: "createSEditor2"
+        });
+      }
+    }
+
+    $(document).ready(function () {
+      smartEditor();
+    });
+  </script>
+
+</head>
+<body>
+  <noscript>You need to enable JavaScript to run this app.</noscript>
+  <div id="root"></div>
+</body>
+</html>

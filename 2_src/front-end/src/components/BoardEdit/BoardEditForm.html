@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Document</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <!-- 스크립트 파일의 상대 경로 수정 -->
+  <script type="text/javascript" src="../../../resources/static/js/HuskyEZCreator.js" charset="utf-8"></script>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+  <link href="./index.css" rel="stylesheet">
+
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+    integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.min.js"
+    integrity="sha384-Rx+T1VzGupg4BHQYs2gCW9It+akI2MM/mndMCy36UVfodzcJcF0GGLxZIzObiEfa"
+    crossorigin="anonymous"></script>
+</head>
+
+<body>
+  <div class="container">
+
+<<<<<<< HEAD
+  <!-- 굿비 글쓰기 -->
+  <div class="header">굿비 글 수정</div>
+  <div class="blueline mt-3 mb-3"></div>
+=======
+    <p class="header">굿비 글수정</p>
+>>>>>>> ad470cd225821ba3f27e77c8f81e62e2291dea5f
+
+    <div class="blueline mb-3 mt-3"></div>
+
+    <!-- 게시판 선택 -->
+    <select class="selectform form-select form-select-lg mb-3 select" aria-label="Large select example">
+      <option selected>게시판을 선택해주세요.</option>
+      <option value="1">취업준비</option>
+      <option value="2">국비교육</option>
+      <option value="3">학습공유</option>
+      <option value="3">취뽀후기</option>
+    </select>
+
+    <!-- 제목 입력창 -->
+    <div class="input-group mb-3">
+      <input type="text" class="titleform form-control " aria-label="Sizing example input" 
+        aria-describedby="inputGroup-sizing-default" placeholder="제목을 입력해주세요">
+    </div>
+
+    <!-- 내용 입력창 -->
+    <form action="insertStudentInfoForm" method="post">
+      <div id="smarteditor">
+        <textarea name="editorTxt" id="editorTxt" rows="20"   class="writeform" placeholder="내용을 입력해주세요"
+        ></textarea>
+      </div>
+
+
+
+      <div class="buttons mt-3">
+        <div  class="hidden-btn"></div>
+        <!-- 글 등록 버튼 -->
+        <input type="button" class="regist-btn" value="수정 완료">
+  
+        <!-- 작성 취소 버튼 -->
+        <a href="#" class="cancel-btn">수정취소</a>
+      </div>
+    </form>
+
+  </div>
+
+
+
+
+
+  <script>
+    let oEditors = [];
+
+    function smartEditor() {
+      console.log("Naver SmartEditor");
+      if (typeof nhn !== 'undefined' && nhn.husky && nhn.husky.EZCreator) {
+        nhn.husky.EZCreator.createInIFrame({
+          oAppRef: oEditors,
+          elPlaceHolder: "editorTxt",
+          // 스킨 파일의 상대 경로 수정
+          sSkinURI: "../../../resources/static/SmartEditor2Skin.html",
+          fCreator: "createSEditor2"
+        });
+      }
+    }
+
+    $(document).ready(function () {
+      smartEditor();
+    });
+  </script>
+</body>
+
+</html>

@@ -1,0 +1,18 @@
+
+[
+  {
+    "id" : 1,
+    "member" : null,
+    "memberId" : 1,
+    "nickname" : "minji",
+    "boardType" : "취업준비",
+    "title": "인생을 똑바로 사는법",
+    "content" : "제대로 사는건 힘들지만 노력하면 빛이 보인다",
+    "likeCount" : 111,
+    "createDate" : "2023-02-23",
+    "hits" : 1102,
+    "img":"https://img.hankyung.com/photo/202007/99.15787258.1.jpg",
+    "commentCount": 5
+  }
+
+  ]

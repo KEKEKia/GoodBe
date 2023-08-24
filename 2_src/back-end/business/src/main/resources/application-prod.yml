@@ -1,0 +1,15 @@
+spring:
+  config:
+    activate:
+      on-profile: prod
+  datasource:
+    driver-class-name: org.mariadb.jdbc.Driver
+    url: jdbc:mariadb://i9a801.p.ssafy.io:3306/test
+    username: ssafy
+    password: jinajjang1128!
+  jpa:
+    hibernate:
+      ddl-auto: none
+file:
+  dir:
+    local: /goodbe/S09P12A801/2_src/back-end/files

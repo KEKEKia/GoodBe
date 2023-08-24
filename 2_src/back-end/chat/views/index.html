@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GoodBe 채팅방</title>
+</head>
+<body>
+    <div>F12</div>
+    <script src="/socket.io/socket.io.js"></script>
+    <script>
+        const socket = io.connect("http://localhost:8092",{
+            path:"/socket.io",
+            // polling 방식은 하지 않겠다
+            transports: ['websocket'], 
+        });
+    
+
+        socket.on('news', (data)=>{
+            console.log(data);
+            socket.emit("reply", "Hello Node.js");
+        })
+
+    </script>
+</body>
+</html>

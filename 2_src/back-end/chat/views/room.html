@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>{{title}}</title>
+  <link rel="stylesheet" href="/main.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+</head>
+<body >
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+ 
+  <main style="
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  ">
+
+    <fieldset id="chatroomForm" class="shadow-lg p-3 mb-5 bg-body-tertiary rounded">
+      <legend class="mb-3">채팅방 생성</legend>
+      <form action="/room" method="post" enctype="multipart/form-data">
+        <div class="mb-3">
+          <label for="title" class="form-label">방 제목</label>
+          <input type="text" name="title" class="form-control" placeholder="방 제목">
+        </div>
+        <div class="mb-3">
+          <label for="max" class="form-label">수용 인원</label>
+          <input type="number" name="max" class="form-control" placeholder="수용 인원" min="1" value="50">
+          <div id="maxHelp" class="form-text">최대 50명까지 가능합니다.</div>
+        </div>
+        <div class="mb-3" >
+          <label for="introduction" class="form-label">한 줄 소개</label>
+          <input type="text" name="introduction" class="form-control" placeholder="채팅방에 대한 간단한 설명을 작성해주세요">
+        </div>
+        <div class="mb-3">
+          <label for="image" class="form-label">이미지 업로드</label>
+          <input type="file" name="image" class="form-control">
+        </div>
+   
+        <div>
+          <button type="submit" class="btn btn-primary mt-5">생성</button>
+        </div>
+      </form>
+    </fieldset>
+  </main>
+</body>
+</html>
